@@ -1,0 +1,24 @@
+Aim=>
+	The aim of COVID-19 Vaccinations Trend analysis is to analyze the different vaccinations scenario 	like daily vaccinations, fully vaccinations, total people who vaccinated at least one dose. The 	project aims to convey the analysis of different ongoing vaccination programs around the globe
+
+
+introduction=> 
+				The introduction of COVID-19 Vaccinations Trend analysis is a brief introduction to the 				project. It should provide an overview of the project and its objectives. The aim of the 				project is to analyze the different vaccinations scenario like daily vaccinations, fully 				vaccinations, total people who vaccinated at least one dose. The project aims to convey 				the analysis of different ongoing vaccination programs around the globe
+
+problem Stetement=> 
+					The problem statement of COVID-19 Vaccinations Trend analysis is to track the 						progress of the Covid-19 vaccine in different countries around the world. The 						COVID-19 pandemic, associated disruptions, and vaccination efforts strained health 					systems in 2020 and 2021, resulting in dramatic setbacks
+
+methodlogy=> 
+				The methodology of COVID-19 Vaccinations Trend analysis is a description of the methods 				used to collect and analyze data. The project aims to analyze the different vaccinations 				scenario like daily vaccinations, fully vaccinations, total people who vaccinated at 				least one dose. The project aims to convey the analysis of different ongoing vaccination 				programs around the globe.
+
+analysis=>
+			The aim of COVID-19 Vaccinations Trend analysis is to analyze the different vaccinations 			scenario like daily vaccinations, fully vaccinations, total people who vaccinated at least 			one dose. The project aims to convey the analysis of different ongoing vaccination programs 			around the globe
+
+insights=> 
+			Top 10 country like china and  india and united state so doing great work but in the year 			of 2020 vaccaination is very less they were do more vaccaination in that time but israel 			did great work if we talk about out of 100 people around 35 percent people were vaccianated 			most of time used vacciance is johnson & johnson,moderna, oxford/astraze eca,pfizer/biotech
+
+recomendations=> 
+				pakistan should more work on vaccianation because its not on top 10 and bottem 10 						even not in out of 100 people vacianted 
+
+conclusion=>
+			 most of the country used this vaccianation johnson & johnson,moderna, oxford/astraze 				eca,pfizer/biotech
